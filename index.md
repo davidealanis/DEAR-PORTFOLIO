@@ -14,7 +14,7 @@ title: WindDA - Wind Data Analysis
 - Interactive plots  
 
 ## 📷 App
-![WindDA App](screenshot.png)
+![WindDA App](screenshot.PNG)
 
 ## 🛠️ How to Use  
 1. Upload your wind speed dataset 📊  
