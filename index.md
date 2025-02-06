@@ -4,21 +4,20 @@ title: WindDA - Wind Data Analysis
 ---
 
 # 🌬️ WindDA - Wind Data Analysis  
-🚀 Analyze wind speed data and visualize Weibull distributions with this web app.  
+🚀 Analyze wind speed data and visualize wind histogram, diurnal profile and Weibull distributions with this web app.  
 
 🔗 **[Launch the App](https://windda-tgrqwip3bvb9rnvlodrhxf.streamlit.app/)**  
 
 ## 📌 Features  
-- Weibull distribution fitting  
-- Wind speed histograms  
-- Interactive plots  
+- Wind speed histogram
+- Wind diurnal profile
+- Weibull distribution 
 
-## 📷 App  
+## 📷 App
 ![WindDA App](screenshot.PNG)
 
 ## 🛠️ How to Use  
-1. Upload your wind speed dataset 📊  
-2. View Weibull parameters ⚙  
-3. Analyze wind energy potential 🌍  
-
+1. Upload your wind speed dataset in cvs format or select to use sample data📊
+2. Sample data is NREL data
+3. View graphs of speed histogram, diurnal profile and weibull distribution ⚙
 ---
