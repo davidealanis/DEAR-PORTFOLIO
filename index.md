@@ -13,8 +13,8 @@ title: WindDA - Wind Data Analysis
 - Wind speed histograms  
 - Interactive plots  
 
-## 📷 Screenshot  
-![WindDA App](https://your-image-url.com)  
+## 📷 App  
+![WindDA App](images/screenshot.png)
 
 ## 🛠️ How to Use  
 1. Upload your wind speed dataset 📊  
