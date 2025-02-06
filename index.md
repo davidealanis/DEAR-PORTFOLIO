@@ -9,9 +9,9 @@ title: WindDA - Wind Data Analysis
 🔗 **[Launch the App](https://windda-tgrqwip3bvb9rnvlodrhxf.streamlit.app/)**  
 
 ## 📌 Features  
-✅ Weibull distribution fitting  
-✅ Wind speed histograms  
-✅ Interactive plots  
+- Weibull distribution fitting  
+- Wind speed histograms  
+- Interactive plots  
 
 ## 📷 Screenshot  
 ![WindDA App](https://your-image-url.com)  
